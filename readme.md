@@ -16,6 +16,6 @@ npm run dev
 npm run build
 ```
 
-View [live](https://threejs-sandonl-portal.vercel.app/) version:
+View [live](https://threejs-sandonl-portal.vercel.app/) version
 
 Developed in accordance with [Three.js Journey](https://threejs-journey.com/#presentation)
